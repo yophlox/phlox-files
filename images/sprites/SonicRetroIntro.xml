@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRetroIntro.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Intro0000" x="0" y="0" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+	<SubTexture name="Intro0001" x="644" y="0" width="644" height="484" frameX="2" frameY="2" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>
